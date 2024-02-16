@@ -12,13 +12,13 @@ This repository contains HTML and CSS files for a website offering free programm
 
 ## Introduction
 
-This website is created by Aadil Latif and offers free programming courses in collaboration with NSDC, ITM Edutech, and GDD MAD. The courses cover a range of programming languages and technologies, providing participants with the opportunity to enhance their skills and earn branded certificates.
+This website is created by Aadil Latif and offers free programming courses in collaboration with NSDC, ITM Edutech, and GDG MAD. The courses cover a range of programming languages and technologies, providing participants with the opportunity to enhance their skills and earn branded certificates.
 
 ## Features
 
 - Responsive design for optimal viewing on various devices.
 - Animated background waves for a visually appealing experience.
-- Branded course certificates in collaboration with NSDC, ITM Edutech, and GDD MAD.
+- Branded course certificates in collaboration with NSDC, ITM Edutech, and GDG MAD.
 - Easy-to-follow steps for joining courses.
 - Course details including course number, title, start date, and enrollment link.
 - Footer with copyright information.
