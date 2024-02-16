@@ -109,7 +109,7 @@ body {
 }
 
 .images img {
-  height: 50px;
+  height: 20px;
   object-fit: contain;
   margin: 0 10px;
 }
